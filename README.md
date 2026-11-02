@@ -4,7 +4,6 @@
 To design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios.
 
 ### PROBLEM STATEMENT:
-
 ### DESIGN STEPS:
 
 #### STEP 1: Create a prompt template with two parameters, sport and country.
@@ -15,7 +14,8 @@ To design and implement a LangChain Expression Language (LCEL) expression that u
 
 ### PROGRAM:
 ````
-
+Name: SAAINATH B
+Reg no: 212225240127
 import os
 import openai
 ​
